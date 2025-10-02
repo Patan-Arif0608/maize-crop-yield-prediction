@@ -28,8 +28,7 @@ The model helps farmers and researchers estimate yield based on environmental an
 ```
 
 .
-├── frontend/       # React-based frontend
-├── backend/        # Model and API
+├── project/        # Frontend 
 ├── README.md       # Project documentation
 
 ````
@@ -108,6 +107,3 @@ Open your browser at **[http://localhost:3000](http://localhost:3000)** 🚀
 
 ---
 
-
-Would you like me to also create a **project logo/banner image** (something like 🌽 + AI + graph) that you can upload to your repo and display at the top of the README?
-```
